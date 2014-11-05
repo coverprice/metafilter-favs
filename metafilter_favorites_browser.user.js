@@ -4,8 +4,8 @@
 // @exclude			http://www.metafilter.com/
 // @icon			http://mefi.us/styles/mefi/favicon.ico
 // @grant			GM_addStyle
-// @version			1.01
-// @downloadURL			https://github.com/coverprice/metafilter-favs/raw/master/metafilter_favorites_browser.js
+// @version			1.02
+// @downloadURL		https://raw.githubusercontent.com/coverprice/metafilter-favs/master/metafilter_favorites_browser.user.js
 // ==/UserScript==
 
 Global =  {
